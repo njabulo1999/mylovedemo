@@ -22,7 +22,7 @@ const puzzles = [
     { 
         question: "How many months have we been together?", 
         options: ["15", "I don't remember all that", "7", "8"], 
-        answer: "7"
+        answer: "8"
     },
     { 
         question: "Let me smack your bunz with it?", 
@@ -62,7 +62,7 @@ const romanticMessages = [
     "Need you now and forever ❤️",
     "I'd choose you in every lifetime",
     "You're my favorite notification 🔔",
-    "Stealing kisses since 2023",
+    "Stealing kisses since 2024",
     "Home isn't a place, it's wherever you are",
     "Mam' wabo ❤️",
     "Ellery's Mom 👶🍼",
@@ -71,14 +71,13 @@ const romanticMessages = [
     "My heart does backflips when you're near!",
     "Officially addicted to your love 💊",
     "100% match compatibility! 🧪",
-    "You had me at 'hello'...",
+    "You had me at 'bbe'...",
     "My favorite hello and hardest goodbye",
-    "Every love story is beautiful, but ours is my favorite",
+    "Every love story is beautiful, but ours is my the greatest one",
     "I love you more than pizza!",
     "You're my favorite thought every morning",
     "My heart recognized you first",
     "You're my favorite place to be",
-    "I'd pick you even in a room full of supermodels",
     "You're my favorite kind of trouble",
     "I'd still choose you even with memory loss",
     "You're my favorite adventure",
@@ -90,7 +89,6 @@ const romanticMessages = [
     "You're my favorite kind of chaos",
     "I love you more than Kanye loves Kanye",
     "You're my favorite human",
-    "I'd swipe right on you in every lifetime",
     "You're my favorite notification",
     "I love you more than weekends",
     "You're my favorite reason to smile",
@@ -98,14 +96,11 @@ const romanticMessages = [
     "You're my favorite kind of perfect",
     "I love you more than chocolate",
     "You're my favorite dream come true",
-    "I'd pick you every single time",
-    "You're my favorite kind of beautiful",
+    "You're my favorite kind of beautiful, very beautiful",
     "I love you more than naps",
     "You're my favorite person to annoy",
-    "I'd still fall for you every time",
-    "You're my favorite kind of crazy",
     "I love you more than wifi",
-    "You're my favorite everything"
+    "You're my everything"
 ];
 
 // 50+ FUNNY messages for WRONG answers
@@ -113,14 +108,13 @@ const funnyMessages = [
     "Were you distracted by your beauty? Try again 😍",
     "Wrong answer! Penalty: 10 kisses 💋",
     "Nope! Your fine is one date night 🎟",
-    "Bruh... even the dog knows this one",
+    "Bruh... even Spongebob knows this one",
     "This hurt my soul a little... try again!",
     "Wrong! Do you even love me? 😂",
     "Nope! *boops nose* Try again",
     "Error: Requires butt smacks to continue",
     "Wrong! Now imitate your favorite animal",
     "Did you guess with your eyes closed? 👀",
-    "Were you raised by wolves? Try again!",
     "Incorrect! *grabs squishy cheeks*",
     "Wrong answer = mandatory dance break!",
     "Mistakes mean you have to wear my hoodie",
@@ -143,7 +137,7 @@ const funnyMessages = [
     "Wrong! *steals your pillow*",
     "Even a goldfish would remember this!",
     "Incorrect! *tickles you*",
-    "Wrong! Now do your sexy dance",
+    "Wrong! Now do your sexy dance... on me",
     "Nope! *steals your fries*",
     "Wrong answer = 5 minutes of staring",
     "Incorrect! *pokes belly button*",
@@ -151,7 +145,6 @@ const funnyMessages = [
     "Nope! *steals your spot on the couch*",
     "Wrong answer = 10 pushups!",
     "Incorrect! *blows raspberry*",
-    "Wrong! Now say 'I'm too pretty to be smart'",
     "Nope! *steals your blanket*",
     "Wrong answer = funny face selfie!",
     "Incorrect! *steals your phone*",
@@ -159,7 +152,7 @@ const funnyMessages = [
     "Nope! *steals your dessert*",
     "Wrong answer = massage my shoulders!",
     "Incorrect! *steals your chair*",
-    "Wrong! Now tell me I'm pretty 5 times",
+    "Wrong! Now tell me I'm handsome 5 times",
     "Nope! *steals your socks*"
 ];
 
