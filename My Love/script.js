@@ -35,6 +35,11 @@ const puzzles = [
         answer: "Sthandwa Sam"
     },
     { 
+        question: "What's your favorite colour?", 
+        options: ["Nothing", "Blue", "Green", "Orange"], 
+        answer: "Sthandwa Sam"
+    },
+    { 
         question: "I lose ... when you're not next to me", 
         options: ["Barbie Dreams", "Bodak Yellow", "Control", "Biri Marung"], 
         answer: "Control"
